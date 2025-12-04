@@ -1,6 +1,3 @@
-## Tabulka
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+line1
+line2
+line3
