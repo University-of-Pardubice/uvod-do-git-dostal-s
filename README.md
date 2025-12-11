@@ -8,3 +8,4 @@ Empty project for trainining git
 | left bar      | right bar     |
 | left baz      | right baz     |
 nemam rad matiku by student 2
+test merge student1
