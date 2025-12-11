@@ -2,10 +2,10 @@
 Empty project for trainining git 
 
 ## Tabulka
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right bro     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| id    | požadavek                            |
+| ------------- |:----------------------------:|
+| 1     | Každý student se podílí na projektu  |
+| 2     | poslední cvičení je obhajoba         |
+| 3     | right baz                            |
 nemam rad matiku by student 2
 ngnl softwarove inzenirtstvi je cool fr 
