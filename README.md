@@ -6,6 +6,6 @@ Empty project for trainining git
 | ------------- |:----------------------------:|
 | 1     | Každý student se podílí na projektu  |
 | 2     | poslední cvičení je obhajoba         |
-| 3     | right baz                            |
+| 3     | Pro zápočet je potřeba udělat test   |
 nemam rad matiku by student 2
 ngnl softwarove inzenirtstvi je cool fr 
